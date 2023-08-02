@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center !important;
+}
+
+.user{
+    text-align: center;
+}
+.input-box{
+    display: flex !important;
+    flex-direction: row!important;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+.table{
+    display: flex !important;
+    flex-direction: column!important;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+
+}
+.table-col{
+    width: 200px !important;
+}
+
+
+
+#err {
+    color: red;
+    font-weight: 1000;
+}
+
+thead {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+tbody{
+    justify-content: center;
+    text-align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
